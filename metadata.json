@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Katalis 360",
+  "description": "Sistem Penilaian Pegawai BerAKHLAK - BPS",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
